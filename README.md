@@ -47,18 +47,18 @@ Horoscope App(folder)
 
 ## User Stories: 🗺️
 
-1. Styling Elements Across Different Pages
-  As a developer,
+1. Styling Elements Across Different Pages <br>
+  As a developer,<br>
   I want to use SCSS/SASS to style different elements on various pages,
   So that I can maintain consistency across the website and ensure a cohesive design.
 
-2. Creating a Holistic Web Page
-  As a designer,
+2. Creating a Holistic Web Page<br>
+  As a designer,<br>
   I want to leverage SCSS/SASS features to create a holistic web page,
   To ensure that the website has a unified look and feel, enhancing the user experience.
 
-3. Utilizing SCSS/SASS Features
-  As a developer,
+3. Utilizing SCSS/SASS Features<br>
+  As a developer,<br>
   I want to explore and utilize all CSS features available in SCSS/SASS,
   To efficiently manage styles, reduce redundancy, and enhance the maintainability of the website's codebase.
 
