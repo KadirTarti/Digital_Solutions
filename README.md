@@ -33,6 +33,11 @@ Horoscope App(folder)
 │    │       │      ├── _footer.scss
 │    │       │      ├── _nav.scss
 │    │       │      └── _responsive.scss
+│    │       ├── Pages
+│    │       │      ├── _about.scss
+│    │       │      ├── _contact.scss
+│    │       │      ├── _home.scss
+│    │       │      └── _project.scss
 └── README.md
 
 ````
