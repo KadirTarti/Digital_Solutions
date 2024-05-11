@@ -38,6 +38,9 @@ Horoscope App(folder)
 │    │       │      ├── _contact.scss
 │    │       │      ├── _home.scss
 │    │       │      └── _project.scss
+│    │       ├── main.css
+│    │       ├── main.css.map
+│    └──       └── main.scss
 └── README.md
 
 ````
