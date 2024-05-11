@@ -4,8 +4,8 @@ https://digital-solutions-tartilaci.netlify.app/
 
 ## Description 🟢
 
-In this project, a Horoscope web page showing horoscope cards was developed. The navbar links on the homepage are redirected through components in the background. It can be observed that the endpoints in the address bar change when the links are clicked.
-When you hover over Tarot cards, information about that zodiac sign is shown on the card. The fixed feature was used to keep the navbar fixed at the top when scrolling.
+In this project, especially scss-sass skills are demonstrated. All css features in the project were created via scss. The goal of the project is to style different elements on different pages via scss and create a holistic web page.
+
 
 ## Outcome 🎥
 
