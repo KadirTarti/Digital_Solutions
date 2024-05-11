@@ -14,7 +14,7 @@ In this project, especially scss-sass skills are demonstrated. All css features 
 ## Project Skeleton  👷
 
 ````
-Horoscope App(folder)
+Digital_Solutions (folder)
 |
 ├── about.html
 ├── contact.html
