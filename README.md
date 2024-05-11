@@ -9,8 +9,7 @@ In this project, especially scss-sass skills are demonstrated. All css features 
 
 ## Outcome 🎥
 
-![horoscope-web-site-ezgif com-optimize](https://github.com/KadirTarti/KadirTarti/assets/150926891/37332d52-3033-4fc2-9823-cabaa879380c)
-
+![DigitalSolutions](https://github.com/KadirTarti/KadirTarti/assets/150926891/fd2dd912-a82e-4f91-952c-860d277b9f5b) 
 
 ## Project Skeleton  👷
 
