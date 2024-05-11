@@ -24,11 +24,15 @@ Horoscope App(folder)
 │    │       ├── data.js
 │    │       └── logo.png
 │    ├── scss
-│    │       ├── abstract
+│    │       ├── Abstract
 │    │       │      ├── _mixins.scss
 │    │       │      └── _variables.scss
-│    │       ├── base
-│    │       └── _reset.scss
+│    │       ├── Base
+│    │       │      └── _reset.scss
+│    │       ├── Components
+│    │       │      ├── _footer.scss
+│    │       │      ├── _nav.scss
+│    │       │      └── _responsive.scss
 └── README.md
 
 ````
