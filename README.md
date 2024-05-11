@@ -63,13 +63,12 @@ Horoscope App(folder)
   To efficiently manage styles, reduce redundancy, and enhance the maintainability of the website's codebase.
 
 ## Objective 🔍
-Build a Horoscope Appointment App using ReactJS.
+
+Develop a website using SCSS for styling.
 
 ### This project helped me develop the following skills:
 
-⭐ improve coding skills within HTML & CSS & SCSS & JS & ReactJS
-
-⭐ Printing the requested data from the Data.js file to the screen
+⭐ improve coding skills within HTML & CSS & SCSS
 
 ⭐ use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
