@@ -47,15 +47,20 @@ Horoscope App(folder)
 
 ## User Stories: 🗺️
 
-1-) As a user, I want to navigate easily through the horoscope web page, so I can access different sections without confusion.
+1. Styling Elements Across Different Pages
+  As a developer,
+  I want to use SCSS/SASS to style different elements on various pages,
+  So that I can maintain consistency across the website and ensure a cohesive design.
 
-2-) As a user, I want the navbar links on the homepage to redirect me to the corresponding sections, so I can find information about specific zodiac signs quickly.
+2. Creating a Holistic Web Page
+  As a designer,
+  I want to leverage SCSS/SASS features to create a holistic web page,
+  To ensure that the website has a unified look and feel, enhancing the user experience.
 
-3-) As a user, I want to see the endpoints change in the address bar when I click on navbar links, so I can understand the navigation path and bookmark specific sections if needed.
-
-4-) As a user, I want to hover over Tarot cards and see information about the associated zodiac signs, so I can learn more about them without navigating away from the current page.
-
-5-) As a user, I want the navbar to remain fixed at the top when I scroll down the page, so I can access navigation options conveniently without having to scroll back to the top.
+3. Utilizing SCSS/SASS Features
+  As a developer,
+  I want to explore and utilize all CSS features available in SCSS/SASS,
+  To efficiently manage styles, reduce redundancy, and enhance the maintainability of the website's codebase.
 
 ## Objective 🔍
 Build a Horoscope Appointment App using ReactJS.
