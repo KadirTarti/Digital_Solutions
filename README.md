@@ -24,7 +24,9 @@ Horoscope App(folder)
 │    │       ├── data.js
 │    │       └── logo.png
 │    ├── scss
-│    │       ├── _mixins.scss
+│    │       ├── abstract
+│    │       │      ├── _mixins.scss
+│    │       │      └── _variables.scss
 │    │       ├── _reset.scss
 │    │       └── _variables.scss
 └── README.md
