@@ -16,34 +16,17 @@ In this project, especially scss-sass skills are demonstrated. All css features 
 ````
 Horoscope App(folder)
 |
-├── public
-│     └── index.html
-├── src
-│    ├── components
-│    │       ├── Header
-│    │       │     ├── Header.jsx
-│    │       │     └── header.scss
-│    │       ├── Main
-│    │       │     ├── Card.jsx
-│    │       │     ├── Main.jsx
-│    │       │     └── main.scss
-│    │       └── Navbar
-│    │       │     ├── Navbar.jsx
-│    │       │     └── navbar.scss
-│    ├── helper
+├── about.html
+├── contact.html
+├── index.html
+├── projects.html
+│    ├── images
 │    │       ├── data.js
 │    │       └── logo.png
 │    ├── scss
 │    │       ├── _mixins.scss
 │    │       ├── _reset.scss
 │    │       └── _variables.scss
-│    ├── App.js
-│    ├── App.scss
-│    └── index.js
-│
-├── .gitignore
-├── package.lock.json
-├── package.json
 └── README.md
 
 ````
