@@ -1,4 +1,4 @@
-# Horoscope Website
+# Digital_Solutions
 
 https://digital-solutions-tartilaci.netlify.app/
 
